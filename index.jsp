@@ -1,0 +1,1 @@
+<jsp:forward page="/showItemServlet?action=top"/>
