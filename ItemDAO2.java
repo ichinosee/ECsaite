@@ -216,8 +216,8 @@ public class ItemDAO2 {
 			Class.forName("org.postgresql.Driver");
 			//JDBCドライバの登録
 			String url = "jdbc:postgresql:sample";
-			String user = "student";
-			String pass = "himitu";
+			String user = "hogehoge";
+			String pass = "hogehoge";
 			//データベースの接続
 			con = DriverManager.getConnection(url, user, pass);
 		} catch (Exception e) {
